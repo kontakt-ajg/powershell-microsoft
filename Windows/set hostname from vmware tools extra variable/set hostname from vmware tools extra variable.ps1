@@ -1,0 +1,1 @@
+Rename-Computer -NewName $(& ""C:\Program Files\VMware\VMware Tools\rpctool.exe" "info-get guestinfo.hostname"") -Restart

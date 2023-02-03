@@ -1,0 +1,3 @@
+﻿ipconfig /all
+hostname
+pause
